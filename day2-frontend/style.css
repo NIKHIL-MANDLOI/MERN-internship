@@ -1,0 +1,50 @@
+body {
+
+    font-family: Arial, sans-serif;
+    background-color: #f4f4f4;
+    padding: 40px;
+
+}
+
+.container {
+
+    background: white;
+    padding: 30px;
+    border-radius: 10px;
+    width: 500px;
+
+}
+
+h1 {
+
+    margin-bottom: 20px;
+
+}
+
+button {
+
+    background-color: #007bff;
+    color: white;
+    border: none;
+    padding: 12px 20px;
+    border-radius: 5px;
+    cursor: pointer;
+    font-size: 16px;
+
+}
+
+button:hover {
+
+    background-color: #0056b3;
+
+}
+
+#output {
+
+    margin-top: 20px;
+    background: #f0f0f0;
+    padding: 15px;
+    border-radius: 5px;
+    white-space: pre-wrap;
+
+}

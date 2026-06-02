@@ -1,0 +1,5 @@
+1,John,Active
+2,Rahul,Inactive
+3,Aman,Active
+4,Sneha,Active
+5,Riya,Inactive
