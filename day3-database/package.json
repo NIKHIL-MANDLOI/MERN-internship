@@ -1,0 +1,17 @@
+{
+  "dependencies": {
+    "express": "^5.2.1",
+    "mongoose": "^9.6.3"
+  },
+  "name": "day-3",
+  "version": "1.0.0",
+  "description": "This project was completed as part of the MERN Stack Internship Day 3 assignment.",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
